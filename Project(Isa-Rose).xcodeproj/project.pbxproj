@@ -45,14 +45,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4A61DA4329870DF900E93F36 /* Isa */ = {
+		4A61DA4529870F4200E93F36 /* Isa */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Isa;
 			sourceTree = "<group>";
 		};
-		4A61DA4429870E0200E93F36 /* Rose */ = {
+		4A61DA4729870F5E00E93F36 /* Rose */ = {
 			isa = PBXGroup;
 			children = (
 			);
@@ -78,8 +78,8 @@
 		4AE2423F2986EE2300E2B0F7 /* Project(Isa-Rose) */ = {
 			isa = PBXGroup;
 			children = (
-				4A61DA4429870E0200E93F36 /* Rose */,
-				4A61DA4329870DF900E93F36 /* Isa */,
+				4A61DA4729870F5E00E93F36 /* Rose */,
+				4A61DA4529870F4200E93F36 /* Isa */,
 				4AE242552986EE5800E2B0F7 /* Model */,
 				4AE242542986EE4200E2B0F7 /* App */,
 				4AE242602986F01000E2B0F7 /* Storyboards */,
