@@ -64,8 +64,6 @@
 		4AE2423F2986EE2300E2B0F7 /* Project(Isa-Rose) */ = {
 			isa = PBXGroup;
 			children = (
-				4AE2425D2986EF2300E2B0F7 /* rose */,
-				4AE2425C2986EF1C00E2B0F7 /* isa */,
 				4AE242552986EE5800E2B0F7 /* Model */,
 				4AE242542986EE4200E2B0F7 /* App */,
 				4AE242602986F01000E2B0F7 /* Storyboards */,
@@ -92,20 +90,6 @@
 				4AE242582986EE7200E2B0F7 /* DataStore.swift */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		4AE2425C2986EF1C00E2B0F7 /* isa */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = isa;
-			sourceTree = "<group>";
-		};
-		4AE2425D2986EF2300E2B0F7 /* rose */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = rose;
 			sourceTree = "<group>";
 		};
 		4AE242602986F01000E2B0F7 /* Storyboards */ = {
